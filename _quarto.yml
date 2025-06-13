@@ -1,0 +1,34 @@
+project:
+  type: book
+  output-dir: _book
+
+book:
+  title: "Mathematics"
+  subtitle: "A Beginner's Guide"
+  description: "A comprehensive introduction to mastering Grade 12 Mathematics. This book assumes the reader has little to no background knowledge in mathematics, thus it covers content from Grade 10 to 12 of NCAPS - South Africa's curriculum."
+  cover-image: cover.jpg
+  author: "Katleho Nyoni"
+  chapters:
+    - index.qmd
+    - Introduction.qmd
+    - Probability.qmd
+    - Functions.qmd
+    - Patterns.qmd
+    - Finance.qmd
+    - Calculus.qmd
+    - Statistics.qmd
+    - Geometry.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+  pdf:
+    documentclass: scrreprt
+
+editor: visual
+
