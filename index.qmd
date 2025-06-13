@@ -1,6 +1,6 @@
 # Preface {.unnumbered}
 
-GitHub YouTube Facebook TikTok
+[PDF Version](index.pdf){.btn .btn-primary}
 
 [![](images/KATIEUM%20(1).png){fig-align="center"}](https://katieum.co.za)
 

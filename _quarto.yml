@@ -8,7 +8,10 @@ book:
   subtitle: "A Beginner's Guide"
   author: "Katleho Nyoni"
   description: "A comprehensive introduction to mastering Grade 12 Mathematics. This book assumes the reader has little to no background knowledge in mathematics, thus it covers content from Grade 10 to 12 of NCAPS - South Africa's curriculum."
-  
+  page-footer: 
+    center: "© | Copyright 2025 Katieum"
+    background: "dark"
+
   repo-branch: main
   site-url: https://E4Katieum.github.io/Mathematics/
   sharing: [facebook,twitter,linkedin]
