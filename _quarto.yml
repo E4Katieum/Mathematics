@@ -1,13 +1,29 @@
 project:
   type: book
-  output-dir: docs
+  output-dir: _book
 
 book:
+  cover-image: cover.jpg
   title: "Mathematics"
   subtitle: "A Beginner's Guide"
-  description: "A comprehensive introduction to mastering Grade 12 Mathematics. This book assumes the reader has little to no background knowledge in mathematics, thus it covers content from Grade 10 to 12 of NCAPS - South Africa's curriculum."
-  cover-image: cover.jpg
   author: "Katleho Nyoni"
+  description: "A comprehensive introduction to mastering Grade 12 Mathematics. This book assumes the reader has little to no background knowledge in mathematics, thus it covers content from Grade 10 to 12 of NCAPS - South Africa's curriculum."
+  
+  repo-branch: main
+  site-url: https://E4Katieum.github.io/Mathematics/
+  sharing: [facebook,twitter,linkedin]
+  
+  sidebar:
+    tools:
+      - icon: github
+        href: https://github.com/E4Katieum
+      - icon: youtube
+        href: https://youtube.com/@Visuals.Katieum
+      - icon: facebook
+        href: https://facebook.com/@E4Katieum
+      - icon: tiktok
+        href: https://tiktok.com/@Visuals.Katieum
+  
   chapters:
     - index.qmd
     - Introduction.qmd
