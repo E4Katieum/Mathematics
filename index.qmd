@@ -10,9 +10,9 @@ GitHub YouTube Facebook TikTok
 
 ## Structure
 
-This book is structured in a way that it will cover the following topics: ![](images/Structure.png)
+This book is structured in a way that it will cover the following topics: ![](images/Structure.png){fig-align="left"}
 
-in the order of seen from the table of contents. I've structured the book such that one chapter builds from the previous one. To master Probability and Functions, it would be helpful if you did Set Theory first — although not neccessary(**RECOMMENDED**). The rest can be seen from the Mind-map intuitively so.
+in the order of seen from the table of contents. I've structured the book such that one chapter builds from the previous one. To master Probability and Functions, it would be helpful if you did Set Theory first — although not necessary(**RECOMMENDED**). The rest can be seen from the Mind-map intuitively so.
 
 #### NOTE :
 
