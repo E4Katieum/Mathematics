@@ -1,3 +1,4 @@
 # Functions
-
+# Polynomials{.unnumbered}
+# Trigonometry{.unnumbered}
 **UNDER CONSTRUCTION**

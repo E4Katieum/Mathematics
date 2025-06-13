@@ -1,1 +1,19 @@
 # Preface {.unnumbered}
+
+GitHub YouTube Facebook TikTok
+
+[![](images/KATIEUM%20(1).png){fig-align="center"}](https://katieum.co.za)
+
+### Welcome !
+
+[Katieum](https://github.com/Katleho-Nyoni/Grade_12-Visual) uses animation to teach Mathematics and Physical Sciences to Grade 10 — 12 learners of South Africa. Click to check the [demo](https://www.youtube.com/watch?v=XwBtjpcyG-8).
+
+## Structure
+
+This book is structured in a way that it will cover the following topics: ![](images/Structure.png)
+
+in the order of seen from the table of contents. I've structured the book such that one chapter builds from the previous one. To master Probability and Functions, it would be helpful if you did Set Theory first — although not neccessary(**RECOMMENDED**). The rest can be seen from the Mind-map intuitively so.
+
+#### NOTE :
+
+This is an on-going project. The resources used will be cited. Slowly but surely, step by step. **Enjoy!**

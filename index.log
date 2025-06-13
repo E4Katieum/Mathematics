@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.6.13)  13 JUN 2025 19:56
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.6.13)  13 JUN 2025 21:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1023,60 +1023,82 @@ No file index.toc.
 [2
 
 ]
+File: images/KATIEUM (1).png Graphic file (type bmp)
+<images/KATIEUM (1).png>
+
 
 [3
 
 ]
+File: images/Structure.png Graphic file (type bmp)
+<images/Structure.png>
+
+Overfull \hbox (339.09073pt too wide) in paragraph at lines 239--242
+\TU/lmr/m/n/10.95 This book is structured in a way that it will cover the following topics: [] 
+ []
+
+
+
+[4]
+
+[5]
 chapter 1.
-
-
-[4
-
-]
-chapter 2.
-
-
-[5
-
-]
-chapter 3.
+File: images/G.Cantor.jpeg Graphic file (type bmp)
+<images/G.Cantor.jpeg>
 
 
 [6
 
 ]
-chapter 4.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
+(Font)              scaled to size 7.665pt on input line 307.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
+(Font)              scaled to size 5.475pt on input line 307.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 10.95099pt on input line 307.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 7.66568pt on input line 307.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 5.4755pt on input line 307.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 10.94882pt on input line 307.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 7.66417pt on input line 307.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 5.47441pt on input line 307.
 
 
-[7
+[7]
+Missing character: There is no 𝐴 (U+1D434) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 𝐴 (U+1D434) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 𝐵 (U+1D435) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 𝐴 (U+1D434) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 𝐴 (U+1D434) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 𝐶 (U+1D436) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 𝐵 (U+1D435) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 𝐵 (U+1D435) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 𝐶 (U+1D436) in font [lmroman10-regular]:mapping=tex-text;!
 
-]
-chapter 5.
 
-
-[8
-
-]
-chapter 6.
+[8]
+chapter 2.
 
 
 [9
 
 ]
-chapter 7.
+chapter 3.
 
 
 [10
 
 ]
-chapter 8.
+chapter 4.
 
 
 [11
 
 ]
-chapter 9.
-
 
 [12
 
@@ -1085,8 +1107,58 @@ chapter 9.
 [13
 
 ]
+chapter 5.
+File: images/ZenoVanElea.jpg Graphic file (type bmp)
+<images/ZenoVanElea.jpg>
+
 
 [14
+
+]
+
+[15]
+
+[16]
+Missing character: There is no 𝛾 (U+1D6FE) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 𝑎 (U+1D44E) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 𝑑 (U+1D451) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 𝑎 (U+1D44E) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 𝑑 (U+1D451) in font [lmroman10-regular]:mapping=tex-text;!
+
+
+[17]
+
+[18]
+chapter 6.
+
+
+[19
+
+]
+chapter 7.
+
+
+[20
+
+]
+chapter 8.
+
+
+[21
+
+]
+chapter 9.
+
+
+[22
+
+]
+
+[23
+
+]
+
+[24
 
 ]
 
@@ -1096,18 +1168,18 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.295 \end{CSLReferences}
+l.588 \end{CSLReferences}
                          
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
  
 Here is how much of TeX's memory you used:
- 23419 strings out of 470481
- 454824 string characters out of 5489080
- 1149066 words of memory out of 5000000
- 51411 multiletter control sequences out of 15000+600000
- 630397 words of font info for 70 fonts, out of 8000000 for 9000
+ 23594 strings out of 470481
+ 459694 string characters out of 5489080
+ 1160066 words of memory out of 5000000
+ 51557 multiletter control sequences out of 15000+600000
+ 633256 words of font info for 90 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 108i,7n,114p,10900b,403s stack positions out of 10000i,1000n,20000p,200000b,200000s
-Output written on index.pdf (14 pages).
+ 108i,8n,114p,10900b,492s stack positions out of 10000i,1000n,20000p,200000b,200000s
+Output written on index.pdf (24 pages).
