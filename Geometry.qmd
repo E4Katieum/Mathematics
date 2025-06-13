@@ -1,5 +1,6 @@
-# Analytical Geometry
+# Geometry 
+# Analytical Geometry {.unnumbered}
 
 **UNDER CONSTRUCTION**
 
-# Euclidean Geometry
+# Euclidean Geometry {.unnumbered}
