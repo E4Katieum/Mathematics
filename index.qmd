@@ -2,7 +2,7 @@
 
 [PDF Version](index.pdf){.btn .btn-primary}
 
-[![](images/KATIEUM%20(1).png){fig-align="center"}](https://katieum.co.za)
+[![](images/KATIEUM.png){fig-align="center"}](https://katieum.co.za)
 
 ### Welcome !
 
