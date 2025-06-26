@@ -2,7 +2,7 @@
 
 [PDF Version](index.pdf){.btn .btn-primary}
 
-[![](images/KATIEUM.png){fig-align="center"}](https://katieum.co.za)
+![](images/MathematicsBookCover.jpg){fig-align="center"}
 
 ### Welcome !
 
