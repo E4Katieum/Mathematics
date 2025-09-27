@@ -129,10 +129,10 @@ window.Quarto = {
       <a href="./">Mathematics</a> 
         <div class="sidebar-tools-main tools-wide">
     <a href="https://github.com/E4Katieum" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-github"></i></a>
-    <a href="https://youtube.com/@Visuals.Katieum" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-youtube"></i></a>
+    <a href="https://youtube.com/@E4Katieum" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-youtube"></i></a>
     <a href="https://x.com/@Katieum" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-twitter"></i></a>
     <a href="https://facebook.com/@E4Katieum" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-facebook"></i></a>
-    <a href="https://tiktok.com/@Visuals.Katieum" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-tiktok"></i></a>
+    <a href="https://tiktok.com/@E4Katieum" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-tiktok"></i></a>
     <div class="dropdown">
       <a href="" title="Share" id="quarto-navigation-tool-dropdown-0" class="quarto-navigation-tool dropdown-toggle px-1" data-bs-toggle="dropdown" aria-expanded="false" role="link" aria-label="Share"><i class="bi bi-share"></i></a>
       <ul class="dropdown-menu" aria-labelledby="quarto-navigation-tool-dropdown-0">
@@ -242,6 +242,8 @@ window.Quarto = {
   <ul class="collapse">
   <li><a href="#solution" id="toc-solution" class="nav-link" data-scroll-target="#solution"><span class="header-section-number">1.3.1</span> Solution</a></li>
   </ul></li>
+  <li><a href="#subsets" id="toc-subsets" class="nav-link" data-scroll-target="#subsets"><span class="header-section-number">1.4</span> Subsets</a></li>
+  <li><a href="#set-operations" id="toc-set-operations" class="nav-link" data-scroll-target="#set-operations"><span class="header-section-number">1.5</span> Set Operations</a></li>
   </ul>
 </nav>
     </div>
@@ -307,18 +309,60 @@ The Box will act as a set while the papers of the students inside the box are re
 <ol type="1">
 <li>Which of these are equal?
 <ol type="a">
-<li>𝐴 and 𝐵</li>
-<li>𝐴 and 𝐶</li>
-<li>𝐵 and 𝐶</li>
+<li><span class="math inline">\(𝐴\)</span> and <span class="math inline">\(𝐵\)</span></li>
+<li><span class="math inline">\(𝐴\)</span> and <span class="math inline">\(𝐶\)</span></li>
+<li><span class="math inline">\(𝐵\)</span> and <span class="math inline">\(𝐶\)</span></li>
 </ol></li>
 <li>What are the cardinalities of each set?</li>
 </ol>
 <section id="solution" class="level3" data-number="1.3.1">
 <h3 data-number="1.3.1" class="anchored" data-anchor-id="solution"><span class="header-section-number">1.3.1</span> Solution</h3>
-<p><strong>UNDER CONSTRUCTION</strong></p>
-
-
+<ol type="1">
+<li>or the first question:
+<ol type="a">
+<li><span class="math inline">\(𝐴\)</span> and <span class="math inline">\(𝐵\)</span> are not equal, since <span class="math inline">\(𝐴\)</span> null set—without elements while <span class="math inline">\(B\)</span> is a set that has a null set as an element. Thus, <span class="math inline">\(𝐴 ≠ B\)</span>.</li>
+<li><span class="math inline">\(𝐴\)</span> and <span class="math inline">\(𝐶\)</span> are equal, since <span class="math inline">\(𝐴\)</span> is a null set—without elements and <span class="math inline">\(C\)</span> is also set that has no elements in it. Thus <span class="math inline">\(𝐴 = C\)</span>.</li>
+<li><span class="math inline">\(𝐵\)</span> and <span class="math inline">\(𝐶\)</span> are not equal, since 𝐵 is a <em>set that has a null set</em> as an element, while <span class="math inline">\(C\)</span> is a null set . Thus, <span class="math inline">\(𝐵 ≠ 𝐶\)</span>.</li>
+</ol></li>
+<li>As for the cardinalities: <span class="math display">\[
+|A| = |C| = 0
+\]</span> <span class="math display">\[
+|B| = 1
+\]</span></li>
+</ol>
 </section>
+</section>
+<section id="subsets" class="level2" data-number="1.4">
+<h2 data-number="1.4" class="anchored" data-anchor-id="subsets"><span class="header-section-number">1.4</span> Subsets</h2>
+<p>A <strong>subset</strong> can be defined as a set within a set. As per the name suggests, it a portion of a set, and it is denoted by <span class="math inline">\(⊆\)</span>. Formally, we say</p>
+<dl>
+<dt>SUBSET</dt>
+<dd>
+<p>The set <span class="math inline">\(X\)</span> is the <em>subset</em> of <span class="math inline">\(Y\)</span> if every element in <span class="math inline">\(X\)</span> is also an element of <span class="math inline">\(Y\)</span>.</p>
+</dd>
+</dl>
+<p>Suppose you have three sets <span class="math inline">\(𝐴 = \{2,4,6,8,10\}\)</span> ; <span class="math inline">\(𝐵 = \{2,6,8\}\)</span> and <span class="math inline">\(𝐶 = \{2,6\}\)</span>. <span class="math inline">\(C\)</span> is the subset of <span class="math inline">\(𝐴\)</span> and <span class="math inline">\(𝐵\)</span> since <span class="math inline">\(2\)</span> &amp; <span class="math inline">\(6\)</span> are in both the sets <span class="math inline">\(𝐴\)</span> and <span class="math inline">\(B\)</span>,that is <span class="math inline">\(C⊆𝐴\)</span> and <span class="math inline">\(𝐶 ⊆𝐵\)</span>.</p>
+<p>Set <span class="math inline">\(𝐵\)</span> is a subset of <span class="math inline">\(𝐴\)</span> but not of <span class="math inline">\(𝐶\)</span>. That is <span class="math inline">\(B⊆𝐴\)</span> and <span class="math inline">\(𝐵 ⊈𝐶\)</span>. And lastly <span class="math inline">\(𝐴\)</span> is not a subset of either sets.</p>
+<blockquote class="blockquote">
+<p>Every set is a subset of itself.</p>
+</blockquote>
+<p>Common basic sets which are also subsets of others include :</p>
+<p>o <strong><em>Integers</em></strong>: all set of numbers without a decimal. These are all set of integers which are either positive or negative. Represented by the symbol <span class="math inline">\(ℤ\)</span>. denoted by <span class="math display">\[ℤ = \{…,−3,−2,−1,0,1,2,3,…\}\]</span>. o <strong><em>Natural Numbers</em></strong>: all positive integers EXCEPT 0. Represented by the symbol <span class="math inline">\(ℕ\)</span>. denoted by <span class="math display">\[ℕ = \{1,2,3,…\}\]</span>. o <strong><em>Whole Numbers</em></strong>: all positive integers INCLUDING <span class="math inline">\(0\)</span>, denoted by <span class="math display">\[ℕ_0=\{0,1,2,3, …\}\]</span>. o <strong><em>Rational Numbers</em></strong>: Represented by the symbol <span class="math inline">\(ℚ\)</span>. All fractions of the form <span class="math display">\[ℚ=\{ \frac{𝑎}{𝑏} | 𝑎,𝑏 ∈ ℤ ,𝑏≠ 0 \}\]</span>. o <strong><em>Irrational numbers</em></strong>: numbers that are thought not to be rational are said to be irrational.</p>
+<p>o <strong><em>Imaginary Numbers</em></strong>: imagined numbers that may not exist where <span class="math inline">\(\sqrt{−1}=𝑖\)</span>.</p>
+<p>o <strong><em>Real Numbers</em></strong>: all numbers that can be quantified and thought not to be imaginary. These numbers are made up by both rational and irrational numbers Represented by the symbol <span class="math inline">\(ℝ\)</span>.</p>
+<p>o <strong><em>Complex Numbers</em></strong>: a combination of both real and imaginary numbers. Represented by the symbol <span class="math inline">\(ℂ\)</span> and denoted as <span class="math display">\[ℂ = \{𝑎 + 𝑏𝑖 | 𝑎,𝑏 ∈ ℝ ;i = \sqrt{−1} \}\]</span>.</p>
+<p><strong><em>examples????</em></strong></p>
+</section>
+<section id="set-operations" class="level2" data-number="1.5">
+<h2 data-number="1.5" class="anchored" data-anchor-id="set-operations"><span class="header-section-number">1.5</span> Set Operations</h2>
+<p>Suppose you`re given two sets <span class="math inline">\(𝑆 = \{𝑎,𝑏,𝑐\}\)</span> and <span class="math inline">\(𝑇 = \{1,𝑏,2\}\)</span>.</p>
+<p>A <strong><em>Union</em></strong> contains all elements of sets, denoted by the symbol <span class="math inline">\(∪\)</span> and keyword <strong>or</strong> is formalized as <span class="math display">\[S \text{or} T=S∪𝑇=\{𝑎,𝑏,𝑐,1,2\}\]</span> the notation <span class="math inline">\(S ∪ 𝑇\)</span> is called <span class="math inline">\(𝑆\)</span> union <span class="math inline">\(𝑇\)</span> which is equivalent to <span class="math inline">\(𝑆\)</span> 𝑜𝑟<span class="math inline">\(𝑇\)</span>.</p>
+<p><strong><em>Intersection</em></strong> are common elements within the sets, denoted by <span class="math inline">\(∩\)</span> <span class="math display">\[S \text{and} 𝑇 =𝑆∩𝑇=\{𝑏\} \]</span> the notation <span class="math inline">\(𝑆 ∩ 𝑇\)</span> is called <span class="math inline">\(𝑆\)</span> intersection <span class="math inline">\(𝑇\)</span> which is equivalent to <span class="math inline">\(𝑆\)</span> 𝑎𝑛𝑑<span class="math inline">\(𝑇\)</span>.</p>
+<p><strong><em>Universal set</em></strong>: A set that contains every element denoted <span class="math inline">\(𝓊\)</span>.</p>
+<p><strong><em>Complement</em></strong> : all elements within a universal set THAT IS NOT within the given set, denoted as 𝑛𝑜𝑡** <span class="math inline">\(𝐴 = 𝐴′ = 𝐴^𝐶 = \hd{𝐴}\)</span> .</p>
+<p><strong><em>Difference/Relative complement</em></strong> : these are elements in the set <span class="math inline">\(𝑆\)</span> BUT NOT in <span class="math inline">\(𝑇\)</span> where <span class="math display">\[S−𝑇=𝑆∩𝑇̅ =\{𝑎,𝑐\}\]</span> There are also addition, subtraction and multiplication for sets.</p>
+
+
 </section>
 
 </main> <!-- /main -->
