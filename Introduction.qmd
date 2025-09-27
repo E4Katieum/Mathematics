@@ -69,20 +69,26 @@ Set $𝐵$ is a subset of $𝐴$ but not of $𝐶$. That is $B⊆𝐴$ and $𝐵
 
 Common basic sets which are also subsets of others include :
 
-o *Integers*: all set of numbers without a decimal. These are all set of integers which are either positive or negative. Represented by the symbol $ℤ$. denoted by $$ℤ = \{…,−3,−2,−1,0,1,2,3,…\}$$. o *Natural Numbers*: all positive integers EXCEPT 0. Represented by the symbol $ℕ$. denoted by $$ℕ = \{1,2,3,…\}$$. o *Whole Numbers*: all positive integers INCLUDING $0$, denoted by $$ℕ_0=\{0,1,2,3, …\}$$. o *Rational Numbers*: Represented by the symbol $ℚ$. All fractions of the form $$ℚ=\{ \frac{𝑎}{𝑏} | 𝑎,𝑏 ∈ ℤ ,𝑏≠ 0 \}$$. o *Irrational numbers*: numbers that are thought not to be rational are said to be irrational. o *Imaginary Numbers*: imagined numbers that may not exist where $\sqrt{−1}=𝑖$. o *Real Numbers*: all numbers that can be quantified and thought not to be imaginary. These numbers are made up by both rational and irrational numbers Represented by the symbol $ℝ$. o *Complex Numbers*: a combination of both real and imaginary numbers. Represented by the symbol $ℂ$ and denoted as $$ℂ = \{𝑎 + 𝑏𝑖 | 𝑎,𝑏 ∈ ℝ ;i = \sqrt{−1} \}$$.
+o ***Integers***: all set of numbers without a decimal. These are all set of integers which are either positive or negative. Represented by the symbol $ℤ$. denoted by $$ℤ = \{…,−3,−2,−1,0,1,2,3,…\}$$. o ***Natural Numbers***: all positive integers EXCEPT 0. Represented by the symbol $ℕ$. denoted by $$ℕ = \{1,2,3,…\}$$. o ***Whole Numbers***: all positive integers INCLUDING $0$, denoted by $$ℕ_0=\{0,1,2,3, …\}$$. o ***Rational Numbers***: Represented by the symbol $ℚ$. All fractions of the form $$ℚ=\{ \frac{𝑎}{𝑏} | 𝑎,𝑏 ∈ ℤ ,𝑏≠ 0 \}$$. o ***Irrational numbers***: numbers that are thought not to be rational are said to be irrational.
+
+o ***Imaginary Numbers***: imagined numbers that may not exist where $\sqrt{−1}=𝑖$.
+
+o ***Real Numbers***: all numbers that can be quantified and thought not to be imaginary. These numbers are made up by both rational and irrational numbers Represented by the symbol $ℝ$.
+
+o ***Complex Numbers***: a combination of both real and imaginary numbers. Represented by the symbol $ℂ$ and denoted as $$ℂ = \{𝑎 + 𝑏𝑖 | 𝑎,𝑏 ∈ ℝ ;i = \sqrt{−1} \}$$.
+
+***examples????***
 
 ## Set Operations
 
-Suppose you`re given two sets $𝑆 = \{𝑎,𝑏,𝑐\}$ and $𝑇 = \{1,𝑏,2\}$. A *Union* contains all elements of sets, denoted by the symbol $∪$ and keyword **or** is formalized as
-$$S \text{or} T=S∪𝑇=\{𝑎,𝑏,𝑐,1,2\}$$ 
-the notation $S ∪ 𝑇$ is called $𝑆$ union $𝑇$ which is equivalent to $𝑆$ 𝑜𝑟$𝑇$. 
+Suppose you\`re given two sets $𝑆 = \{𝑎,𝑏,𝑐\}$ and $𝑇 = \{1,𝑏,2\}$.
 
-*Intersection* are common elements within the sets, denoted by $∩$ $$S \text{and} 𝑇 =𝑆∩𝑇=\{𝑏\} $$ the notation $𝑆 ∩ 𝑇$ is called $𝑆$ intersection $𝑇$ which is equivalent to $𝑆$ 𝑎𝑛𝑑$𝑇$. 
+A ***Union*** contains all elements of sets, denoted by the symbol $∪$ and keyword **or** is formalized as $$S \text{or} T=S∪𝑇=\{𝑎,𝑏,𝑐,1,2\}$$ the notation $S ∪ 𝑇$ is called $𝑆$ union $𝑇$ which is equivalent to $𝑆$ 𝑜𝑟$𝑇$.
 
-*Universal set*: A set that contains every element denoted $𝓊$. 
+***Intersection*** are common elements within the sets, denoted by $∩$ $$S \text{and} 𝑇 =𝑆∩𝑇=\{𝑏\} $$ the notation $𝑆 ∩ 𝑇$ is called $𝑆$ intersection $𝑇$ which is equivalent to $𝑆$ 𝑎𝑛𝑑$𝑇$.
 
-*Complement* : all elements within a universal set THAT IS NOT within the given set, denoted as 𝑛𝑜𝑡\*\* $𝐴 = 𝐴′ = 𝐴^𝐶 = \hd{𝐴}$ . 
+***Universal set***: A set that contains every element denoted $𝓊$.
 
-*Difference/Relative complement* : these are elements in the set $𝑆$ BUT NOT in $𝑇$ where
-$$S−𝑇=𝑆∩𝑇̅ =\{𝑎,𝑐\}$$
-There are also addition, subtraction and multiplication for sets.
+***Complement*** : all elements within a universal set THAT IS NOT within the given set, denoted as 𝑛𝑜𝑡\*\* $𝐴 = 𝐴′ = 𝐴^𝐶 = \hd{𝐴}$ .
+
+***Difference/Relative complement*** : these are elements in the set $𝑆$ BUT NOT in $𝑇$ where $$S−𝑇=𝑆∩𝑇̅ =\{𝑎,𝑐\}$$ There are also addition, subtraction and multiplication for sets.
