@@ -12,6 +12,8 @@ As the topic was relatively new and hot at the time, it received backlashes ofte
 
 **Yatla \| UNDER CONSTRUCTION**
 
+## Introduction
+
 However, as I’ve outline that this isn’t a new idea, you have also used sets in your daily life. Formally, a
 
 SET
@@ -31,7 +33,7 @@ The Box will act as a set while the papers of the students inside the box are re
 
 $\phi$ or empty curly braces $\{\}$. In turn, $\phi = \{\}$ with a cardinality of $0$.
 
-## Example
+### Example
 
 Suppose there are three sets $$A = \phi $$ $$B = \{\phi\} $$ $$C = \{\} $$
 
@@ -77,7 +79,8 @@ o ***Real Numbers***: all numbers that can be quantified and thought not to be i
 
 o ***Complex Numbers***: a combination of both real and imaginary numbers. Represented by the symbol $ℂ$ and denoted as $$ℂ = \{𝑎 + 𝑏𝑖 | 𝑎,𝑏 ∈ ℝ ;i = \sqrt{−1} \}$$.
 
-## Example
+### Example
+
 **Yatla \| UNDER CONSTRUCTION**
 
 ## Set Operations
@@ -90,6 +93,6 @@ A ***Union*** contains all elements of sets, denoted by the symbol $∪$ and key
 
 ***Universal set***: A set that contains every element denoted $𝓊$.
 
-***Complement*** : all elements within a universal set THAT IS NOT within the given set, denoted as 𝑛𝑜𝑡\*\* $𝐴 = 𝐴′ = 𝐴^𝐶 = \hd{𝐴}$ .
+***Complement*** : all elements within a universal set THAT IS NOT within the given set, denoted as *𝑛𝑜𝑡* $𝐴 = 𝐴′ = 𝐴^𝐶 = 𝐴$ .
 
 ***Difference/Relative complement*** : these are elements in the set $𝑆$ BUT NOT in $𝑇$ where $$S−𝑇=𝑆∩𝑇̅ =\{𝑎,𝑐\}$$ There are also addition, subtraction and multiplication for sets.
