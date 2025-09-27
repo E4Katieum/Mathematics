@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.6.13)  26 JUN 2025 22:41
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.6.13)  27 SEP 2025 17:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1064,117 +1064,37 @@ LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 
 
 [8]
-Missing character: There is no 𝐴 (U+1D434) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 𝐴 (U+1D434) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 𝐵 (U+1D435) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 𝐴 (U+1D434) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 𝐴 (U+1D434) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 𝐶 (U+1D436) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 𝐵 (U+1D435) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 𝐵 (U+1D435) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 𝐶 (U+1D436) in font [lmroman10-regular]:mapping=tex-text;!
 
 
 [9]
-chapter 2.
 
-
-[10
-
-]
-chapter 3.
-
-
-[11
-
-]
-chapter 4.
-
-
-[12
-
-]
-
-[13
-
-]
-
-[14
-
-]
-chapter 5.
-File: images/ZenoVanElea.jpg Graphic file (type bmp)
-<images/ZenoVanElea.jpg>
-
-
-[15
-
-]
-
-[16]
-
-[17]
-Missing character: There is no 𝛾 (U+1D6FE) in font [lmroman10-regular]:mapping=tex-text;!
+[10]
+Missing character: There is no 𝑜 (U+1D45C) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 𝑟 (U+1D45F) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 𝑎 (U+1D44E) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 𝑛 (U+1D45B) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 𝑑 (U+1D451) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 𝑎 (U+1D44E) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 𝑑 (U+1D451) in font [lmroman10-regular]:mapping=tex-text;!
-
-
-[18]
-
-[19]
-chapter 6.
-
-
-[20
-
-]
-chapter 7.
-
-
-[21
-
-]
-chapter 8.
-
-
-[22
-
-]
-chapter 9.
-
-
-[23
-
-]
-
-[24
-
-]
-
-[25
-
-]
-
-! LaTeX Error: Something's wrong--perhaps a missing \item.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.587 \end{CSLReferences}
-                         
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
+Missing character: There is no 𝓊 (U+1D4CA) in font [latinmodern-math.otf]/OT:script=math;language=dflt;!
+Missing character: There is no 𝑛 (U+1D45B) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 𝑜 (U+1D45C) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 𝑡 (U+1D461) in font [lmroman10-regular]:mapping=tex-text;!
+! Undefined control sequence.
+l.463 ...et, denoted as 𝑛𝑜𝑡** \(𝐴 = 𝐴′ = 𝐴^𝐶 = \hd
+                                                  {𝐴}\) .
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
  
 Here is how much of TeX's memory you used:
- 23540 strings out of 470481
- 458166 string characters out of 5489080
+ 23514 strings out of 470481
+ 457704 string characters out of 5489080
  1159496 words of memory out of 5000000
- 51509 multiletter control sequences out of 15000+600000
- 633256 words of font info for 90 fonts, out of 8000000 for 9000
+ 51481 multiletter control sequences out of 15000+600000
+ 633272 words of font info for 92 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
  108i,8n,114p,10900b,444s stack positions out of 10000i,1000n,20000p,200000b,200000s
-Output written on index.pdf (25 pages).
+Output written on index.pdf (10 pages).

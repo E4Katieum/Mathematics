@@ -77,7 +77,8 @@ o ***Real Numbers***: all numbers that can be quantified and thought not to be i
 
 o ***Complex Numbers***: a combination of both real and imaginary numbers. Represented by the symbol $ℂ$ and denoted as $$ℂ = \{𝑎 + 𝑏𝑖 | 𝑎,𝑏 ∈ ℝ ;i = \sqrt{−1} \}$$.
 
-***examples????***
+## Example
+**Yatla \| UNDER CONSTRUCTION**
 
 ## Set Operations
 
