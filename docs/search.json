@@ -1,5 +1,25 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Mathematics",
+    "section": "",
+    "text": "Preface\nPDF Version",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "index.html#structure",
+    "href": "index.html#structure",
+    "title": "Mathematics",
+    "section": "Structure",
+    "text": "Structure\nThis book is structured in a way that it will cover the following topics: \nin the order of seen from the table of contents. I’ve structured the book such that one chapter builds from the previous one. To master Probability and Functions, it would be helpful if you did Set Theory first — although not necessary(RECOMMENDED). The rest can be seen from the Mind-map intuitively so.\n\nNOTE :\nThis is an on-going project. The resources used will be cited. Slowly but surely, step by step. Enjoy!",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
     "objectID": "Introduction.html",
     "href": "Introduction.html",
     "title": "1  Set Theory: An Introduction",
@@ -30,11 +50,11 @@
     ]
   },
   {
-    "objectID": "Introduction.html#example",
-    "href": "Introduction.html#example",
+    "objectID": "Introduction.html#introduction",
+    "href": "Introduction.html#introduction",
     "title": "1  Set Theory: An Introduction",
-    "section": "1.3 Example",
-    "text": "1.3 Example\nSuppose there are three sets \\[A = \\phi \\] \\[B = \\{\\phi\\} \\] \\[C = \\{\\} \\]\n\nWhich of these are equal?\n\n\\(𝐴\\) and \\(𝐵\\)\n\\(𝐴\\) and \\(𝐶\\)\n\\(𝐵\\) and \\(𝐶\\)\n\nWhat are the cardinalities of each set?\n\n\n1.3.1 Solution\n\nor the first question:\n\n\\(𝐴\\) and \\(𝐵\\) are not equal, since \\(𝐴\\) null set—without elements while \\(B\\) is a set that has a null set as an element. Thus, \\(𝐴 ≠ B\\).\n\\(𝐴\\) and \\(𝐶\\) are equal, since \\(𝐴\\) is a null set—without elements and \\(C\\) is also set that has no elements in it. Thus \\(𝐴 = C\\).\n\\(𝐵\\) and \\(𝐶\\) are not equal, since 𝐵 is a set that has a null set as an element, while \\(C\\) is a null set . Thus, \\(𝐵 ≠ 𝐶\\).\n\nAs for the cardinalities: \\[\n|A| = |C| = 0\n\\] \\[\n|B| = 1\n\\]",
+    "section": "1.3 Introduction",
+    "text": "1.3 Introduction\nHowever, as I’ve outline that this isn’t a new idea, you have also used sets in your daily life. Formally, a\n\nSET\n\nis a collection of objects or elements. A set is often denoted with a capital letter & curly braces.\n\n\nThese objects are also called members. A classroom is a set made of students, and these students are the members of this set. In that same classroom, we can have a set which consists of only boys. Remember that the art of grouping can group things that have similarities or are entirely different. The classroom set has both girls and boys. The similarity is that they’re all human. The set grouping all boys in that classroom share the similarity being that they’re boys, but they’re most likely different in many other ways, from names to their Blood Pressure. A set is often denoted with a capital letter & curly braces , while the elements are denoted by small letters .Let \\[\nV = \\{𝑎,𝑒,𝑖,𝑜,𝑢\\}\n\\] Be an example where the set \\(V\\) is the set of all vowels. Where \\(𝑎,𝑒,𝑖,𝑜,𝑢\\) are the members of the set \\(V\\). The curly braces means “the set of”. Since \\(u\\) and \\(a, 𝑒,𝑖, 𝑜,𝑢\\) are elements of \\(V\\), we denote it as \\(u𝜖V\\) and \\[(𝑎,𝑒,𝑖,𝑜,𝑢)𝜖V ≡ 𝑎,𝑒,𝑖,𝑜,𝑢𝜖V\\]\nRespectively. It oath to be noted that the order of elements in the set and repetition are not important, thus a set with elements \\[\\{𝑜, 𝑒, 𝑢,𝑎,𝑖\\}\\] and \\[\\{𝑎,𝑎,𝑖,𝑖,𝑖,𝑖,𝑖,𝑜,𝑢,𝑒,𝑒\\} \\] Are the same as the set \\(V\\). The number of elements within a set are referred to as a Cardinality, denoted by the absolute bars \\(|𝑋|\\) where \\(X\\) is a set. Thus the cardinality of the set of vowels \\(𝑉\\) is \\(5\\) denoted \\[|V| = 5\\].\nAnother simple example would be as follows, lets call it the Black Box example :\nSuppose you have a Black Box in a class, then ask each and every student to put a paper inside of the box(more like voting). The papers could be different colors and shapes, or just all plain White square papers.\nThe Box will act as a set while the papers of the students inside the box are regarded as the elements of the set(or elements of the box). If the box was empty, then we’d say the box is an empty set/null set. This is a special case of a set and it is denoted by\n\\(\\phi\\) or empty curly braces \\(\\{\\}\\). In turn, \\(\\phi = \\{\\}\\) with a cardinality of \\(0\\).\n\n1.3.1 Example\nSuppose there are three sets \\[A = \\phi \\] \\[B = \\{\\phi\\} \\] \\[C = \\{\\} \\]\n\nWhich of these are equal?\n\n\\(𝐴\\) and \\(𝐵\\)\n\\(𝐴\\) and \\(𝐶\\)\n\\(𝐵\\) and \\(𝐶\\)\n\nWhat are the cardinalities of each set?\n\n\n\n1.3.2 Solution\n\nor the first question:\n\n\\(𝐴\\) and \\(𝐵\\) are not equal, since \\(𝐴\\) null set—without elements while \\(B\\) is a set that has a null set as an element. Thus, \\(𝐴 ≠ B\\).\n\\(𝐴\\) and \\(𝐶\\) are equal, since \\(𝐴\\) is a null set—without elements and \\(C\\) is also set that has no elements in it. Thus \\(𝐴 = C\\).\n\\(𝐵\\) and \\(𝐶\\) are not equal, since 𝐵 is a set that has a null set as an element, while \\(C\\) is a null set . Thus, \\(𝐵 ≠ 𝐶\\).\n\nAs for the cardinalities: \\[\n|A| = |C| = 0\n\\] \\[\n|B| = 1\n\\]",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Set Theory: An Introduction</span>"
     ]
@@ -50,21 +70,21 @@
     ]
   },
   {
-    "objectID": "Introduction.html#example-1",
-    "href": "Introduction.html#example-1",
-    "title": "1  Set Theory: An Introduction",
-    "section": "1.5 Example",
-    "text": "1.5 Example\nYatla | UNDER CONSTRUCTION",
-    "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Set Theory: An Introduction</span>"
-    ]
-  },
-  {
     "objectID": "Introduction.html#set-operations",
     "href": "Introduction.html#set-operations",
     "title": "1  Set Theory: An Introduction",
     "section": "1.5 Set Operations",
     "text": "1.5 Set Operations\nWe’ll discuss five main set operations, namely, the union, intersection, universal set, complement and difference of sets.\nSuppose you`re given two sets \\(𝑆 = \\{𝑎,𝑏,𝑐\\}\\) and \\(𝑇 = \\{1,𝑏,2\\}\\).\nA Union contains all elements of sets, denoted by the symbol \\(∪\\) and keyword or is formalized as \\[S\\ \\text{or} \\ T=S∪𝑇=\\{𝑎,𝑏,𝑐,1,2\\}\\] the notation \\(S ∪ 𝑇\\) is called \\(𝑆\\) union \\(𝑇\\) which is equivalent to \\(𝑆\\) 𝑜𝑟\\(𝑇\\).\no Intersection are common elements within the sets, denoted by \\(∩\\) \\[S\\ \\text{and} \\ 𝑇 =𝑆∩𝑇=\\{𝑏\\} \\] the notation \\(𝑆 ∩ 𝑇\\) is called \\(𝑆\\) intersection \\(𝑇\\) which is equivalent to \\(𝑆\\) 𝑎𝑛𝑑\\(𝑇\\).\no Universal set: A set that contains every element denoted \\(𝓊\\).\no Complement : all elements within a universal set THAT IS NOT within the given set, denoted as 𝑛𝑜𝑡 \\(𝐴 = 𝐴′ = 𝐴^c = \\bar{𝐴}\\) .\no Difference/Relative complement : these are elements in the set \\(𝑆\\) BUT NOT in \\(𝑇\\) where \\[S−𝑇=𝑆∩𝑇 =\\{𝑎,𝑐\\}\\].",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Set Theory: An Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "Introduction.html#relations",
+    "href": "Introduction.html#relations",
+    "title": "1  Set Theory: An Introduction",
+    "section": "1.6 Relations",
+    "text": "1.6 Relations\nSuppose you have two sets, set \\(A = \\{a,b,c\\}\\) and \\(B = \\{1,2,3\\}\\). Vaguely, a relation \\(R\\) that relates \\(A\\) and \\(B\\), is an ordered pair in parenthesis \\((\\ )\\) where the first element is from \\(A\\) and the second from \\(B\\), i.e \\[  R = \\{(a,1),(b,2),(c,3)\\} \\]. It’s worth noting that an element of \\(A\\) might pair or might not pair with at least one element of \\(B\\). That is, if \\(x\\) is an element of \\(A\\), then \\(x\\) might be related to either \\(0\\) elements of \\(B\\),\\(1\\) or more than \\(1\\). If all elements of \\(A\\) relate to \\(0\\) elements of \\(B\\), then \\(R = \\phi = \\{\\ \\}\\).\no Cartisian product denoted \\(A \\times B\\), is a relation where every element of \\(A\\) is related to all element of \\(B\\).\no Function denoted \\(f:A \\to B\\), is a relation where every element of \\(A\\) is related to exactly one element of \\(B\\). Simply, a function is a relation from set \\(A\\) to \\(B\\).",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Set Theory: An Introduction</span>"
     ]
@@ -80,11 +100,61 @@
     ]
   },
   {
+    "objectID": "Probability.html#applications",
+    "href": "Probability.html#applications",
+    "title": "2  Probability",
+    "section": "2.2 Applications",
+    "text": "2.2 Applications",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Probability</span>"
+    ]
+  },
+  {
+    "objectID": "Probability.html#introduction",
+    "href": "Probability.html#introduction",
+    "title": "2  Probability",
+    "section": "2.3 Introduction",
+    "text": "2.3 Introduction\n\n2.3.1 Example\n\n\n2.3.2 Example",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Probability</span>"
+    ]
+  },
+  {
+    "objectID": "Probability.html#probabilistic-properties",
+    "href": "Probability.html#probabilistic-properties",
+    "title": "2  Probability",
+    "section": "2.4 Probabilistic Properties",
+    "text": "2.4 Probabilistic Properties",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Probability</span>"
+    ]
+  },
+  {
     "objectID": "Functions.html",
     "href": "Functions.html",
     "title": "3  Functions",
     "section": "",
     "text": "3.1 History",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Functions</span>"
+    ]
+  },
+  {
+    "objectID": "Functions.html#applications",
+    "href": "Functions.html#applications",
+    "title": "3  Functions",
+    "section": "3.2 Applications",
+    "text": "3.2 Applications",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Functions</span>"
+    ]
+  },
+  {
+    "objectID": "Functions.html#introduction",
+    "href": "Functions.html#introduction",
+    "title": "3  Functions",
+    "section": "3.3 Introduction",
+    "text": "3.3 Introduction\n\n3.3.1 Example",
     "crumbs": [
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Functions</span>"
     ]
@@ -160,106 +230,6 @@
     ]
   },
   {
-    "objectID": "Calculus.html",
-    "href": "Calculus.html",
-    "title": "6  Calculus",
-    "section": "",
-    "text": "6.1 History",
-    "crumbs": [
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Calculus</span>"
-    ]
-  },
-  {
-    "objectID": "Statistics.html",
-    "href": "Statistics.html",
-    "title": "7  Statistics",
-    "section": "",
-    "text": "7.1 History",
-    "crumbs": [
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Statistics</span>"
-    ]
-  },
-  {
-    "objectID": "Geometry.html",
-    "href": "Geometry.html",
-    "title": "8  Geometry",
-    "section": "",
-    "text": "Analytical Geometry",
-    "crumbs": [
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Geometry</span>"
-    ]
-  },
-  {
-    "objectID": "Introduction.html#introduction",
-    "href": "Introduction.html#introduction",
-    "title": "1  Set Theory: An Introduction",
-    "section": "1.3 Introduction",
-    "text": "1.3 Introduction\nHowever, as I’ve outline that this isn’t a new idea, you have also used sets in your daily life. Formally, a\n\nSET\n\nis a collection of objects or elements. A set is often denoted with a capital letter & curly braces.\n\n\nThese objects are also called members. A classroom is a set made of students, and these students are the members of this set. In that same classroom, we can have a set which consists of only boys. Remember that the art of grouping can group things that have similarities or are entirely different. The classroom set has both girls and boys. The similarity is that they’re all human. The set grouping all boys in that classroom share the similarity being that they’re boys, but they’re most likely different in many other ways, from names to their Blood Pressure. A set is often denoted with a capital letter & curly braces , while the elements are denoted by small letters .Let \\[\nV = \\{𝑎,𝑒,𝑖,𝑜,𝑢\\}\n\\] Be an example where the set \\(V\\) is the set of all vowels. Where \\(𝑎,𝑒,𝑖,𝑜,𝑢\\) are the members of the set \\(V\\). The curly braces means “the set of”. Since \\(u\\) and \\(a, 𝑒,𝑖, 𝑜,𝑢\\) are elements of \\(V\\), we denote it as \\(u𝜖V\\) and \\[(𝑎,𝑒,𝑖,𝑜,𝑢)𝜖V ≡ 𝑎,𝑒,𝑖,𝑜,𝑢𝜖V\\]\nRespectively. It oath to be noted that the order of elements in the set and repetition are not important, thus a set with elements \\[\\{𝑜, 𝑒, 𝑢,𝑎,𝑖\\}\\] and \\[\\{𝑎,𝑎,𝑖,𝑖,𝑖,𝑖,𝑖,𝑜,𝑢,𝑒,𝑒\\} \\] Are the same as the set \\(V\\). The number of elements within a set are referred to as a Cardinality, denoted by the absolute bars \\(|𝑋|\\) where \\(X\\) is a set. Thus the cardinality of the set of vowels \\(𝑉\\) is \\(5\\) denoted \\[|V| = 5\\].\nAnother simple example would be as follows, lets call it the Black Box example :\nSuppose you have a Black Box in a class, then ask each and every student to put a paper inside of the box(more like voting). The papers could be different colors and shapes, or just all plain White square papers.\nThe Box will act as a set while the papers of the students inside the box are regarded as the elements of the set(or elements of the box). If the box was empty, then we’d say the box is an empty set/null set. This is a special case of a set and it is denoted by\n\\(\\phi\\) or empty curly braces \\(\\{\\}\\). In turn, \\(\\phi = \\{\\}\\) with a cardinality of \\(0\\).\n\n1.3.1 Example\nSuppose there are three sets \\[A = \\phi \\] \\[B = \\{\\phi\\} \\] \\[C = \\{\\} \\]\n\nWhich of these are equal?\n\n\\(𝐴\\) and \\(𝐵\\)\n\\(𝐴\\) and \\(𝐶\\)\n\\(𝐵\\) and \\(𝐶\\)\n\nWhat are the cardinalities of each set?\n\n\n\n1.3.2 Solution\n\nor the first question:\n\n\\(𝐴\\) and \\(𝐵\\) are not equal, since \\(𝐴\\) null set—without elements while \\(B\\) is a set that has a null set as an element. Thus, \\(𝐴 ≠ B\\).\n\\(𝐴\\) and \\(𝐶\\) are equal, since \\(𝐴\\) is a null set—without elements and \\(C\\) is also set that has no elements in it. Thus \\(𝐴 = C\\).\n\\(𝐵\\) and \\(𝐶\\) are not equal, since 𝐵 is a set that has a null set as an element, while \\(C\\) is a null set . Thus, \\(𝐵 ≠ 𝐶\\).\n\nAs for the cardinalities: \\[\n|A| = |C| = 0\n\\] \\[\n|B| = 1\n\\]",
-    "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Set Theory: An Introduction</span>"
-    ]
-  },
-  {
-    "objectID": "Introduction.html#relations",
-    "href": "Introduction.html#relations",
-    "title": "1  Set Theory: An Introduction",
-    "section": "1.6 Relations",
-    "text": "1.6 Relations\nSuppose you have two sets, set \\(A = \\{a,b,c\\}\\) and \\(B = \\{1,2,3\\}\\). Vaguely, a relation \\(R\\) that relates \\(A\\) and \\(B\\), is an ordered pair in parenthesis \\((\\ )\\) where the first element is from \\(A\\) and the second from \\(B\\), i.e \\[  R = \\{(a,1),(b,2),(c,3)\\} \\]. It’s worth noting that an element of \\(A\\) might pair or might not pair with at least one element of \\(B\\). That is, if \\(x\\) is an element of \\(A\\), then \\(x\\) might be related to either \\(0\\) elements of \\(B\\),\\(1\\) or more than \\(1\\). If all elements of \\(A\\) relate to \\(0\\) elements of \\(B\\), then \\(R = \\phi = \\{\\ \\}\\).\no Cartisian product denoted \\(A \\times B\\), is a relation where every element of \\(A\\) is related to all element of \\(B\\). o Function denoted \\(f:A \\to B\\), is a relation where every element of \\(A\\) is related to exactly one element of \\(B\\). Simply, a function is a relation from set \\(A\\) to \\(B\\).",
-    "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Set Theory: An Introduction</span>"
-    ]
-  },
-  {
-    "objectID": "Probability.html#applications",
-    "href": "Probability.html#applications",
-    "title": "2  Probability",
-    "section": "2.2 Applications",
-    "text": "2.2 Applications",
-    "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Probability</span>"
-    ]
-  },
-  {
-    "objectID": "Probability.html#introduction",
-    "href": "Probability.html#introduction",
-    "title": "2  Probability",
-    "section": "2.3 Introduction",
-    "text": "2.3 Introduction\n\n2.3.1 Example\n\n\n2.3.2 Example",
-    "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Probability</span>"
-    ]
-  },
-  {
-    "objectID": "Probability.html#probabilistic-properties",
-    "href": "Probability.html#probabilistic-properties",
-    "title": "2  Probability",
-    "section": "2.4 Probabilistic Properties",
-    "text": "2.4 Probabilistic Properties",
-    "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Probability</span>"
-    ]
-  },
-  {
-    "objectID": "Functions.html#applications",
-    "href": "Functions.html#applications",
-    "title": "3  Functions",
-    "section": "3.2 Applications",
-    "text": "3.2 Applications",
-    "crumbs": [
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Functions</span>"
-    ]
-  },
-  {
-    "objectID": "Functions.html#introduction",
-    "href": "Functions.html#introduction",
-    "title": "3  Functions",
-    "section": "3.3 Introduction",
-    "text": "3.3 Introduction\n\n3.3.1 Example",
-    "crumbs": [
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Functions</span>"
-    ]
-  },
-  {
     "objectID": "Finance.html#applications",
     "href": "Finance.html#applications",
     "title": "5  Financancial Mathematics",
@@ -277,6 +247,16 @@
     "text": "5.3 Introduction\n\n5.3.1 Example",
     "crumbs": [
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Financancial Mathematics</span>"
+    ]
+  },
+  {
+    "objectID": "Calculus.html",
+    "href": "Calculus.html",
+    "title": "6  Calculus",
+    "section": "",
+    "text": "6.1 History",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Calculus</span>"
     ]
   },
   {
@@ -300,6 +280,16 @@
     ]
   },
   {
+    "objectID": "Statistics.html",
+    "href": "Statistics.html",
+    "title": "7  Statistics",
+    "section": "",
+    "text": "7.1 History",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Statistics</span>"
+    ]
+  },
+  {
     "objectID": "Statistics.html#applications",
     "href": "Statistics.html#applications",
     "title": "7  Statistics",
@@ -317,6 +307,16 @@
     "text": "7.3 Introduction\n\n7.3.1 Example",
     "crumbs": [
       "<span class='chapter-number'>7</span>  <span class='chapter-title'>Statistics</span>"
+    ]
+  },
+  {
+    "objectID": "Geometry.html",
+    "href": "Geometry.html",
+    "title": "8  Geometry",
+    "section": "",
+    "text": "Analytical Geometry",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Geometry</span>"
     ]
   },
   {
