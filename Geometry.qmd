@@ -1,6 +1,14 @@
-# Geometry 
+# Geometry
+
 # Analytical Geometry {.unnumbered}
 
-**UNDER CONSTRUCTION**
+## History
+## Applications
+## Introduction
+### Example
 
 # Euclidean Geometry {.unnumbered}
+## History
+## Applications
+## Introduction
+### Example

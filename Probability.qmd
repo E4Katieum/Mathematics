@@ -1,5 +1,10 @@
 # Probability
 
-**UNDER CONSTRUCTION**
+## History
+## Applications
+## Introduction
+### Example
+### Example
+## Probabilistic Properties
 
 # Combinorics : Counting Principles

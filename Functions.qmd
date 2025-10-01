@@ -1,4 +1,12 @@
 # Functions
-# Polynomials{.unnumbered}
-# Trigonometry{.unnumbered}
+
+## History
+## Applications
+## Introduction
+### Example 
+
+# Polynomials {.unnumbered}
+
+# Trigonometry {.unnumbered}
+
 **UNDER CONSTRUCTION**

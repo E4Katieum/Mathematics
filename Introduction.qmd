@@ -85,14 +85,24 @@ o ***Complex Numbers***: a combination of both real and imaginary numbers. Repre
 
 ## Set Operations
 
+We'll discuss five main set operations, namely, the union, intersection, universal set, complement and difference of sets.
+
 Suppose you\`re given two sets $𝑆 = \{𝑎,𝑏,𝑐\}$ and $𝑇 = \{1,𝑏,2\}$.
 
-A ***Union*** contains all elements of sets, denoted by the symbol $∪$ and keyword **or** is formalized as $$S \text{or} T=S∪𝑇=\{𝑎,𝑏,𝑐,1,2\}$$ the notation $S ∪ 𝑇$ is called $𝑆$ union $𝑇$ which is equivalent to $𝑆$ 𝑜𝑟$𝑇$.
+A ***Union*** contains all elements of sets, denoted by the symbol $∪$ and keyword **or** is formalized as $$S\ \text{or} \ T=S∪𝑇=\{𝑎,𝑏,𝑐,1,2\}$$ the notation $S ∪ 𝑇$ is called $𝑆$ union $𝑇$ which is equivalent to $𝑆$ 𝑜𝑟$𝑇$.
 
-***Intersection*** are common elements within the sets, denoted by $∩$ $$S \text{and} 𝑇 =𝑆∩𝑇=\{𝑏\} $$ the notation $𝑆 ∩ 𝑇$ is called $𝑆$ intersection $𝑇$ which is equivalent to $𝑆$ 𝑎𝑛𝑑$𝑇$.
+o ***Intersection*** are common elements within the sets, denoted by $∩$ $$S\ \text{and} \ 𝑇 =𝑆∩𝑇=\{𝑏\} $$ the notation $𝑆 ∩ 𝑇$ is called $𝑆$ intersection $𝑇$ which is equivalent to $𝑆$ 𝑎𝑛𝑑$𝑇$.
 
-***Universal set***: A set that contains every element denoted $𝓊$.
+o ***Universal set***: A set that contains every element denoted $𝓊$.
 
-***Complement*** : all elements within a universal set THAT IS NOT within the given set, denoted as *𝑛𝑜𝑡* $𝐴 = 𝐴′ = 𝐴^𝐶 = 𝐴$ .
+o ***Complement*** : all elements within a universal set THAT IS NOT within the given set, denoted as *𝑛𝑜𝑡* $𝐴 = 𝐴′ = 𝐴^c = \bar{𝐴}$ .
 
-***Difference/Relative complement*** : these are elements in the set $𝑆$ BUT NOT in $𝑇$ where $$S−𝑇=𝑆∩𝑇̅ =\{𝑎,𝑐\}$$ There are also addition, subtraction and multiplication for sets.
+o ***Difference/Relative complement*** : these are elements in the set $𝑆$ BUT NOT in $𝑇$ where $$S−𝑇=𝑆∩𝑇 =\{𝑎,𝑐\}$$.
+
+## Relations
+
+Suppose you have two sets, set $A = \{a,b,c\}$ and $B = \{1,2,3\}$. Vaguely, a **relation** $R$ that relates $A$ and $B$, is an *ordered pair* in parenthesis $(\ )$ where the first element is from $A$ and the second from $B$, i.e $$  R = \{(a,1),(b,2),(c,3)\} $$. It's worth noting that an element of $A$ might pair or might not pair with at least one element of $B$. That is, if $x$ is an element of $A$, then $x$ might be related to either $0$ elements of $B$,$1$ or more than $1$. If *all* elements of $A$ relate to $0$ elements of $B$, then $R = \phi = \{\ \}$.
+
+o ***Cartisian product*** denoted $A \times B$, is a relation where every element of $A$ is related to all element of $B$.
+
+o ***Function*** denoted $f:A \to B$, is a relation where every element of $A$ is related to exactly *one* element of $B$. Simply, a function is a relation from set $A$ to $B$.

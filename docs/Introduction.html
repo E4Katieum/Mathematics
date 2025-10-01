@@ -238,13 +238,17 @@ window.Quarto = {
   <ul>
   <li><a href="#history" id="toc-history" class="nav-link active" data-scroll-target="#history"><span class="header-section-number">1.1</span> History</a></li>
   <li><a href="#applications" id="toc-applications" class="nav-link" data-scroll-target="#applications"><span class="header-section-number">1.2</span> Applications</a></li>
-  <li><a href="#example" id="toc-example" class="nav-link" data-scroll-target="#example"><span class="header-section-number">1.3</span> Example</a>
+  <li><a href="#introduction" id="toc-introduction" class="nav-link" data-scroll-target="#introduction"><span class="header-section-number">1.3</span> Introduction</a>
   <ul class="collapse">
-  <li><a href="#solution" id="toc-solution" class="nav-link" data-scroll-target="#solution"><span class="header-section-number">1.3.1</span> Solution</a></li>
+  <li><a href="#example" id="toc-example" class="nav-link" data-scroll-target="#example"><span class="header-section-number">1.3.1</span> Example</a></li>
+  <li><a href="#solution" id="toc-solution" class="nav-link" data-scroll-target="#solution"><span class="header-section-number">1.3.2</span> Solution</a></li>
   </ul></li>
-  <li><a href="#subsets" id="toc-subsets" class="nav-link" data-scroll-target="#subsets"><span class="header-section-number">1.4</span> Subsets</a></li>
-  <li><a href="#example-1" id="toc-example-1" class="nav-link" data-scroll-target="#example-1"><span class="header-section-number">1.5</span> Example</a></li>
-  <li><a href="#set-operations" id="toc-set-operations" class="nav-link" data-scroll-target="#set-operations"><span class="header-section-number">1.6</span> Set Operations</a></li>
+  <li><a href="#subsets" id="toc-subsets" class="nav-link" data-scroll-target="#subsets"><span class="header-section-number">1.4</span> Subsets</a>
+  <ul class="collapse">
+  <li><a href="#example-1" id="toc-example-1" class="nav-link" data-scroll-target="#example-1"><span class="header-section-number">1.4.1</span> Example</a></li>
+  </ul></li>
+  <li><a href="#set-operations" id="toc-set-operations" class="nav-link" data-scroll-target="#set-operations"><span class="header-section-number">1.5</span> Set Operations</a></li>
+  <li><a href="#relations" id="toc-relations" class="nav-link" data-scroll-target="#relations"><span class="header-section-number">1.6</span> Relations</a></li>
   </ul>
 </nav>
     </div>
@@ -288,6 +292,9 @@ window.Quarto = {
 <section id="applications" class="level2" data-number="1.2">
 <h2 data-number="1.2" class="anchored" data-anchor-id="applications"><span class="header-section-number">1.2</span> Applications</h2>
 <p><strong>Yatla | UNDER CONSTRUCTION</strong></p>
+</section>
+<section id="introduction" class="level2" data-number="1.3">
+<h2 data-number="1.3" class="anchored" data-anchor-id="introduction"><span class="header-section-number">1.3</span> Introduction</h2>
 <p>However, as I’ve outline that this isn’t a new idea, you have also used sets in your daily life. Formally, a</p>
 <dl>
 <dt>SET</dt>
@@ -303,9 +310,8 @@ V = \{𝑎,𝑒,𝑖,𝑜,𝑢\}
 <p>Suppose you have a Black Box in a class, then ask each and every student to put a paper inside of the box(more like voting). The papers could be different colors and shapes, or just all plain White square papers.<br>
 The Box will act as a set while the papers of the students inside the box are regarded as the elements of the set(or elements of the box). If the box was empty, then we’d say the box is an <strong>empty set/null set</strong>. This is a special case of a set and it is denoted by</p>
 <p><span class="math inline">\(\phi\)</span> or empty curly braces <span class="math inline">\(\{\}\)</span>. In turn, <span class="math inline">\(\phi = \{\}\)</span> with a cardinality of <span class="math inline">\(0\)</span>.</p>
-</section>
-<section id="example" class="level2" data-number="1.3">
-<h2 data-number="1.3" class="anchored" data-anchor-id="example"><span class="header-section-number">1.3</span> Example</h2>
+<section id="example" class="level3" data-number="1.3.1">
+<h3 data-number="1.3.1" class="anchored" data-anchor-id="example"><span class="header-section-number">1.3.1</span> Example</h3>
 <p>Suppose there are three sets <span class="math display">\[A = \phi \]</span> <span class="math display">\[B = \{\phi\} \]</span> <span class="math display">\[C = \{\} \]</span></p>
 <ol type="1">
 <li>Which of these are equal?
@@ -316,8 +322,9 @@ The Box will act as a set while the papers of the students inside the box are re
 </ol></li>
 <li>What are the cardinalities of each set?</li>
 </ol>
-<section id="solution" class="level3" data-number="1.3.1">
-<h3 data-number="1.3.1" class="anchored" data-anchor-id="solution"><span class="header-section-number">1.3.1</span> Solution</h3>
+</section>
+<section id="solution" class="level3" data-number="1.3.2">
+<h3 data-number="1.3.2" class="anchored" data-anchor-id="solution"><span class="header-section-number">1.3.2</span> Solution</h3>
 <ol type="1">
 <li>or the first question:
 <ol type="a">
@@ -352,19 +359,25 @@ The Box will act as a set while the papers of the students inside the box are re
 <p>o <strong><em>Imaginary Numbers</em></strong>: imagined numbers that may not exist where <span class="math inline">\(\sqrt{−1}=𝑖\)</span>.</p>
 <p>o <strong><em>Real Numbers</em></strong>: all numbers that can be quantified and thought not to be imaginary. These numbers are made up by both rational and irrational numbers Represented by the symbol <span class="math inline">\(ℝ\)</span>.</p>
 <p>o <strong><em>Complex Numbers</em></strong>: a combination of both real and imaginary numbers. Represented by the symbol <span class="math inline">\(ℂ\)</span> and denoted as <span class="math display">\[ℂ = \{𝑎 + 𝑏𝑖 | 𝑎,𝑏 ∈ ℝ ;i = \sqrt{−1} \}\]</span>.</p>
-</section>
-<section id="example-1" class="level2" data-number="1.5">
-<h2 data-number="1.5" class="anchored" data-anchor-id="example-1"><span class="header-section-number">1.5</span> Example</h2>
+<section id="example-1" class="level3" data-number="1.4.1">
+<h3 data-number="1.4.1" class="anchored" data-anchor-id="example-1"><span class="header-section-number">1.4.1</span> Example</h3>
 <p><strong>Yatla | UNDER CONSTRUCTION</strong></p>
 </section>
-<section id="set-operations" class="level2" data-number="1.6">
-<h2 data-number="1.6" class="anchored" data-anchor-id="set-operations"><span class="header-section-number">1.6</span> Set Operations</h2>
+</section>
+<section id="set-operations" class="level2" data-number="1.5">
+<h2 data-number="1.5" class="anchored" data-anchor-id="set-operations"><span class="header-section-number">1.5</span> Set Operations</h2>
+<p>We’ll discuss five main set operations, namely, the union, intersection, universal set, complement and difference of sets.</p>
 <p>Suppose you`re given two sets <span class="math inline">\(𝑆 = \{𝑎,𝑏,𝑐\}\)</span> and <span class="math inline">\(𝑇 = \{1,𝑏,2\}\)</span>.</p>
-<p>A <strong><em>Union</em></strong> contains all elements of sets, denoted by the symbol <span class="math inline">\(∪\)</span> and keyword <strong>or</strong> is formalized as <span class="math display">\[S \text{or} T=S∪𝑇=\{𝑎,𝑏,𝑐,1,2\}\]</span> the notation <span class="math inline">\(S ∪ 𝑇\)</span> is called <span class="math inline">\(𝑆\)</span> union <span class="math inline">\(𝑇\)</span> which is equivalent to <span class="math inline">\(𝑆\)</span> 𝑜𝑟<span class="math inline">\(𝑇\)</span>.</p>
-<p><strong><em>Intersection</em></strong> are common elements within the sets, denoted by <span class="math inline">\(∩\)</span> <span class="math display">\[S \text{and} 𝑇 =𝑆∩𝑇=\{𝑏\} \]</span> the notation <span class="math inline">\(𝑆 ∩ 𝑇\)</span> is called <span class="math inline">\(𝑆\)</span> intersection <span class="math inline">\(𝑇\)</span> which is equivalent to <span class="math inline">\(𝑆\)</span> 𝑎𝑛𝑑<span class="math inline">\(𝑇\)</span>.</p>
-<p><strong><em>Universal set</em></strong>: A set that contains every element denoted <span class="math inline">\(𝓊\)</span>.</p>
-<p><strong><em>Complement</em></strong> : all elements within a universal set THAT IS NOT within the given set, denoted as <em>𝑛𝑜𝑡</em> <span class="math inline">\(𝐴 = 𝐴′ = 𝐴^𝐶 = 𝐴\)</span> .</p>
-<p><strong><em>Difference/Relative complement</em></strong> : these are elements in the set <span class="math inline">\(𝑆\)</span> BUT NOT in <span class="math inline">\(𝑇\)</span> where <span class="math display">\[S−𝑇=𝑆∩𝑇̅ =\{𝑎,𝑐\}\]</span> There are also addition, subtraction and multiplication for sets.</p>
+<p>A <strong><em>Union</em></strong> contains all elements of sets, denoted by the symbol <span class="math inline">\(∪\)</span> and keyword <strong>or</strong> is formalized as <span class="math display">\[S\ \text{or} \ T=S∪𝑇=\{𝑎,𝑏,𝑐,1,2\}\]</span> the notation <span class="math inline">\(S ∪ 𝑇\)</span> is called <span class="math inline">\(𝑆\)</span> union <span class="math inline">\(𝑇\)</span> which is equivalent to <span class="math inline">\(𝑆\)</span> 𝑜𝑟<span class="math inline">\(𝑇\)</span>.</p>
+<p>o <strong><em>Intersection</em></strong> are common elements within the sets, denoted by <span class="math inline">\(∩\)</span> <span class="math display">\[S\ \text{and} \ 𝑇 =𝑆∩𝑇=\{𝑏\} \]</span> the notation <span class="math inline">\(𝑆 ∩ 𝑇\)</span> is called <span class="math inline">\(𝑆\)</span> intersection <span class="math inline">\(𝑇\)</span> which is equivalent to <span class="math inline">\(𝑆\)</span> 𝑎𝑛𝑑<span class="math inline">\(𝑇\)</span>.</p>
+<p>o <strong><em>Universal set</em></strong>: A set that contains every element denoted <span class="math inline">\(𝓊\)</span>.</p>
+<p>o <strong><em>Complement</em></strong> : all elements within a universal set THAT IS NOT within the given set, denoted as <em>𝑛𝑜𝑡</em> <span class="math inline">\(𝐴 = 𝐴′ = 𝐴^c = \bar{𝐴}\)</span> .</p>
+<p>o <strong><em>Difference/Relative complement</em></strong> : these are elements in the set <span class="math inline">\(𝑆\)</span> BUT NOT in <span class="math inline">\(𝑇\)</span> where <span class="math display">\[S−𝑇=𝑆∩𝑇 =\{𝑎,𝑐\}\]</span>.</p>
+</section>
+<section id="relations" class="level2" data-number="1.6">
+<h2 data-number="1.6" class="anchored" data-anchor-id="relations"><span class="header-section-number">1.6</span> Relations</h2>
+<p>Suppose you have two sets, set <span class="math inline">\(A = \{a,b,c\}\)</span> and <span class="math inline">\(B = \{1,2,3\}\)</span>. Vaguely, a <strong>relation</strong> <span class="math inline">\(R\)</span> that relates <span class="math inline">\(A\)</span> and <span class="math inline">\(B\)</span>, is an <em>ordered pair</em> in parenthesis <span class="math inline">\((\ )\)</span> where the first element is from <span class="math inline">\(A\)</span> and the second from <span class="math inline">\(B\)</span>, i.e <span class="math display">\[  R = \{(a,1),(b,2),(c,3)\} \]</span>. It’s worth noting that an element of <span class="math inline">\(A\)</span> might pair or might not pair with at least one element of <span class="math inline">\(B\)</span>. That is, if <span class="math inline">\(x\)</span> is an element of <span class="math inline">\(A\)</span>, then <span class="math inline">\(x\)</span> might be related to either <span class="math inline">\(0\)</span> elements of <span class="math inline">\(B\)</span>,<span class="math inline">\(1\)</span> or more than <span class="math inline">\(1\)</span>. If <em>all</em> elements of <span class="math inline">\(A\)</span> relate to <span class="math inline">\(0\)</span> elements of <span class="math inline">\(B\)</span>, then <span class="math inline">\(R = \phi = \{\ \}\)</span>.</p>
+<p>o <strong><em>Cartisian product</em></strong> denoted <span class="math inline">\(A \times B\)</span>, is a relation where every element of <span class="math inline">\(A\)</span> is related to all element of <span class="math inline">\(B\)</span>. o <strong><em>Function</em></strong> denoted <span class="math inline">\(f:A \to B\)</span>, is a relation where every element of <span class="math inline">\(A\)</span> is related to exactly <em>one</em> element of <span class="math inline">\(B\)</span>. Simply, a function is a relation from set <span class="math inline">\(A\)</span> to <span class="math inline">\(B\)</span>.</p>
 
 
 </section>
